@@ -1,0 +1,8 @@
+C:\Users\Brian\Documents\Control de Inventario Listas Simples\Control de Inventario Listas Simples\bin\Debug\Control de Inventario Listas Simples.exe
+C:\Users\Brian\Documents\Control de Inventario Listas Simples\Control de Inventario Listas Simples\bin\Debug\Control de Inventario Listas Simples.pdb
+C:\Users\Brian\Documents\Control de Inventario Listas Simples\Control de Inventario Listas Simples\obj\Debug\Control de Inventario Listas Simples.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Control de Inventario Listas Simples\Control de Inventario Listas Simples\obj\Debug\Control_de_Inventario_Listas_Simples.Form1.resources
+C:\Users\Brian\Documents\Control de Inventario Listas Simples\Control de Inventario Listas Simples\obj\Debug\Control_de_Inventario_Listas_Simples.Properties.Resources.resources
+C:\Users\Brian\Documents\Control de Inventario Listas Simples\Control de Inventario Listas Simples\obj\Debug\Control de Inventario Listas Simples.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Control de Inventario Listas Simples\Control de Inventario Listas Simples\obj\Debug\Control de Inventario Listas Simples.exe
+C:\Users\Brian\Documents\Control de Inventario Listas Simples\Control de Inventario Listas Simples\obj\Debug\Control de Inventario Listas Simples.pdb
